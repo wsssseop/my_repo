@@ -216,7 +216,7 @@ switch(P_Seq_Mode_Arr(P_Cur_Seq_Mode))
 	break;
 }
 
-
+feffefefeeffee-두번쨰에서 올림
 
 
 
