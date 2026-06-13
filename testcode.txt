@@ -3,4 +3,4 @@ Content 1 : 마스터 변경충돌
 
 
 ==============TITLE No2==============
-Content 2 : conflict 11
+Content 2 : 마스터 가 바꿧지.
